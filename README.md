@@ -10,4 +10,4 @@ If you’d like to look at all library district programming information in Washi
 
 2018:  https://www.sos.wa.gov/_assets/library/libraries/libdev/downloads/statistics/18stats/programs.pdf 
 
-Anna will update this repository as new data becomes available.  Please reach out to her for any questions – annag18@uw.edu. 
+Anna will update this repository as new data becomes available.  Please reach out to her with any questions – annag18@uw.edu. 
